@@ -336,7 +336,7 @@ img, img a {
 	text-align:center;
 	margin:0 auto;
 	width: 400px;
-	top: 184px;
+	top: 84px;
 	color: #000000;
 	font-size: 2em;
 }
@@ -392,12 +392,13 @@ img, img a {
 #mars {
 	position: absolute;
 	left: 2400px;
+top: 84px;
 	height: 200px;
 	width: 200px;
 	fill: #ff7443;
 }
 #marstxt {
-	left: 2600px;
+	left: 2400px;
 	color: #ff7443;
 	padding-left: 200px;
 }
