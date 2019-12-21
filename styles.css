@@ -391,13 +391,13 @@ img, img a {
 }
 #mars {
 	position: absolute;
-	left: 65586px;
+	left: 2400px;
 	height: 2px;
 	width: 2px;
 	fill: #ff7443;
 }
 #marstxt {
-	left: 65383px;
+	left: 2200px;
 	color: #ff7443;
 	padding-left: 200px;
 }
