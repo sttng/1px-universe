@@ -392,8 +392,8 @@ img, img a {
 #mars {
 	position: absolute;
 	left: 2400px;
-	height: 2px;
-	width: 2px;
+	height: 200px;
+	width: 200px;
 	fill: #ff7443;
 }
 #marstxt {
