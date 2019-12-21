@@ -404,6 +404,20 @@ img, img a {
 	padding-left: 200px;
 }
 
+#ic1101 {
+	position: absolute;
+	left: 100000px;
+	height: 20px;
+	width: 20px;
+	fill: #ffffff;
+}
+#ic1101txt {
+	top: 44px;
+	left: 99800px;
+	color: #ffffff;
+	padding-left: 200px;
+}
+
 #mars {
 	position: absolute;
 	left: 240px;
