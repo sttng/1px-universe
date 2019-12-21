@@ -389,6 +389,21 @@ img, img a {
 	color: #FFFFFF;
 	font-size:2em;
 }
+
+#m31 {
+	position: absolute;
+	left: 240px;
+	height: 20px;
+	width: 20px;
+	fill: #ffffff;
+}
+#m31txt {
+	top: 44px;
+	left: 45px;
+	color: #ffffff;
+	padding-left: 200px;
+}
+
 #mars {
 	position: absolute;
 	left: 240px;
