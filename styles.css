@@ -496,14 +496,14 @@ img, img a {
 }
 #pluto {
 	position: absolute;
-	left: 46500000ox;
+	left: 46500000px;
 	height: 100px;
 	width: 100px;
 	fill: #D9F5FF;
 }
 #plutotxt {
 	top: 17px;
-	left: 1699570px;
+	left: 46500000px;
 	color: #D9F5FF;
 	padding-left: 200px;
 }
