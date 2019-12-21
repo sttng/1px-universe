@@ -497,8 +497,8 @@ img, img a {
 #pluto {
 	position: absolute;
 	left: 46500000ox;
-	height: 1px;
-	width: 1px;
+	height: 100px;
+	width: 100px;
 	fill: #D9F5FF;
 }
 #plutotxt {
