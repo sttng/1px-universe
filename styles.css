@@ -308,7 +308,7 @@ img, img a {
 	background-image: url(img/ticks2.svg);
 	background-repeat: repeat-x;
 	background-position: left bottom;
-	width: 47000000px;
+	width: 4700000px;
 	height: 99.9%;
 }
 .labeltext {
@@ -328,8 +328,8 @@ img, img a {
 }
 #sun {
 	position: relative;
-	height: 100px;
-	width: 100px;
+	height: 10px;
+	width: 10px;
 	fill: #fde301;
 }
 #suntxt {
@@ -391,14 +391,14 @@ img, img a {
 }
 #mars {
 	position: absolute;
-	left: 2400px;
+	left: 240px;
 top: 84px;
-	height: 200px;
-	width: 200px;
+	height: 20px;
+	width: 20px;
 	fill: #ff7443;
 }
 #marstxt {
-	left: 2400px;
+	left: 240px;
 	color: #ff7443;
 	padding-left: 200px;
 }
@@ -497,14 +497,14 @@ top: 84px;
 }
 #pluto {
 	position: absolute;
-	left: 46500000px;
+	left: 4650000px;
 	height: 100px;
 	width: 100px;
 	fill: #D9F5FF;
 }
 #plutotxt {
 	top: 17px;
-	left: 46499800px;
+	left: 4649980px;
 	color: #D9F5FF;
 	padding-left: 200px;
 }
