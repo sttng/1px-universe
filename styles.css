@@ -293,7 +293,7 @@ img, img a {
 
 .planetwrapper {
 	position: relative;
-	top:10%;
+	top:40%;
 }
 .earthwrapper {
 	position:absolute;
@@ -397,7 +397,7 @@ img, img a {
 	fill: #ff7443;
 }
 #marstxt {
-	left: 2300px;
+	left: 2600px;
 	color: #ff7443;
 	padding-left: 200px;
 }
