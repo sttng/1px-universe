@@ -388,14 +388,15 @@ img, img a {
 }
 #earth {
 	position: absolute;
-	left: 3px;
-	top: 30px;
+	left: 2px;
+	top: 10px;
 	height: 1px;
 	width: 1px;
 	fill: #01fdfa;
 }
 #earthtxt {
-	left: 3px;
+	left: 1px;
+	top: 30px;
 	color: #01fdfa;
 	padding-left: 0px;
 }
