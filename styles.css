@@ -321,7 +321,7 @@ img, img a {
 	text-transform: uppercase;
 }
 #sunwrap {
-	left: 400px;
+	left: 0px;
 	position:absolute;
 	top:-150px;
 	z-index:2;
@@ -342,7 +342,7 @@ img, img a {
 }
 
 #milkyway {
-	position: absuolute;
+	position: absolute;
 	left: 0px;
 	height: 10px;
 	width: 10px;
@@ -359,7 +359,7 @@ img, img a {
 
 
 #mercury {
-	position: absuolute;
+	position: absolute;
 	left: 16666px;
 	height: 1px;
 	width: 1px;
