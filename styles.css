@@ -354,14 +354,13 @@ img, img a {
 	fill: #cceeff;
 }
 #milkywaytxt {
-	text-align:center;
+	text-align:left;
 	margin:0 auto;
 	width: 400px;
-	top: 84px;
+	top: 64px;
 	color: #cceeff;
 	font-size: 2em;
 }
-
 
 #mercury {
 	position: absolute;
