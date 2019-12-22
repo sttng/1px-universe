@@ -321,7 +321,7 @@ img, img a {
 	text-transform: uppercase;
 }
 #sunwrap {
-	left: -100px;
+	left: -400px;
 	position:absolute;
 	top:-150px;
 	z-index:2;
