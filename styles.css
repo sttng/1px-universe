@@ -340,8 +340,26 @@ img, img a {
 	color: #000000;
 	font-size: 2em;
 }
+
+#milkyway {
+	position: absuolute;
+	left: 0px;
+	height: 10px;
+	width: 10px;
+	fill: #fde301;
+}
+#milkywaytxt {
+	text-align:center;
+	margin:0 auto;
+	width: 400px;
+	top: 84px;
+	color: #000000;
+	font-size: 2em;
+}
+
+
 #mercury {
-	position: absolute;
+	position: absuolute;
 	left: 16666px;
 	height: 1px;
 	width: 1px;
