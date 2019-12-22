@@ -342,23 +342,23 @@ img, img a {
 }
 
 #milkywaywrap {
-	left: -5px;
+	left: -15px;
 	position:absolute;
-	top:0px;
+	top: 10px;
 	z-index:2;
 }
 #milkyway {
 	position: relative;
 	height: 10px;
 	width: 10px;
-	fill: #ffffff;
+	fill: #e6ffff;
 }
 #milkywaytxt {
 	text-align:center;
 	margin:0 auto;
 	width: 400px;
 	top: 84px;
-	color: #000000;
+	color: #e6ffff;
 	font-size: 2em;
 }
 
