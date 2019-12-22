@@ -393,9 +393,10 @@ img, img a {
 	height: 1px;
 	width: 1px;
 	fill: #01fdfa;
+	z-index:3;
 }
 #earthtxt {
-	left: 1px;
+	left: -2px;
 	top: 10px;
 	color: #01fdfa;
 	padding-left: 0px;
