@@ -392,13 +392,13 @@ img, img a {
 	top: 10px;
 	height: 1px;
 	width: 1px;
-	fill: #01fdfa;
+	fill: #66b3ff;
 	z-index:3;
 }
 #earthtxt {
 	left: -2px;
 	top: 10px;
-	color: #01fdfa;
+	color: #66b3ff;
 	padding-left: 0px;
 }
 #moon {
