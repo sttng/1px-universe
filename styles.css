@@ -357,7 +357,7 @@ img, img a {
 	text-align:left;
 	margin:0 auto;
 	width: 400px;
-	top: 34px;
+	top: -64px;
 	color: #cceeff;
 	font-size: 2em;
 }
@@ -388,13 +388,13 @@ img, img a {
 }
 #earth {
 	position: absolute;
-	left: 5px;
-	height: 3px;
-	width: 3px;
+	left: 3px;
+	height: 1px;
+	width: 1px;
 	fill: #01fdfa;
 }
 #earthtxt {
-	left: 5px;
+	left: -65px;
 	color: #01fdfa;
 	padding-left: 200px;
 }
