@@ -49,15 +49,6 @@ img, img a {
 
 }
 
-#donate {
-	width:80px;
-	top:14px;
-	left: 90%;
-	margin-left:-80px;
-	z-index:11;
-	opacity: .7;
-
-}
 #langselect img {
 	opacity: .7;
 	height:24px;
