@@ -457,6 +457,20 @@ img, img a {
 	padding-left: 200px;
 }
 
+#gnz11 {
+	position: absolute;
+	left: 3200000px;
+	height: 1px;
+	width: 1px;
+	fill: #ffffcc;
+}
+#gnz11txt {
+	top: 144px;
+	left: 3200000 px;
+	color: #ffffcc;
+	padding-left: 0px;
+}
+
 #mars {
 	position: absolute;
 	left: 240px;
