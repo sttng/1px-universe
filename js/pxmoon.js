@@ -1,6 +1,7 @@
 // Thanks to Krilnon at Kirupa.com (Kyle Murray) for a lot of this
         var lightspeed = 299792 // km/s
 		 var _1km = 3474.8
+		 var _10kly = 10000
         var unit = 'km'
 		 var delimeter = ','
 		 var decimalmark = '.'
@@ -239,7 +240,7 @@ function updateDistance(){
 // Elegant distance counter
 /* function updateDistance(){
     var px = (window.scrollX - $('#bigspace').position().left + $(window).width() / 2)
-    var km = px * _1km
+    var km = px * _10kly
     var distance = km * unitTable[unit]
     $('#counter').text(Math.max(0, distance.toFixed(1)).toString().replace(".", decimalmark).replace(/\B(?=(\d{3})+(?!\d))/g, delimeter) + ' ' + unitname)
 	
