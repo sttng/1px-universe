@@ -396,7 +396,7 @@ img, img a {
 	z-index:3;
 }
 #earthtxt {
-	left: -4px;
+	left: -3px;
 	top: 10px;
 	color: #66b3ff;
 	padding-left: 0px;
@@ -424,7 +424,7 @@ img, img a {
 }
 #m31txt {
 	top: 44px;
-	left: 220px;
+	left: 230px;
 	color: #ffffff;
 	padding-left: 20px;
 }
