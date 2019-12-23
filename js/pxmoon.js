@@ -232,7 +232,7 @@ function cancelLightMsg(){
 
 function updateDistance(){
     var px = (window.pageXOffset - $('#bigspace').position().left + $(window).width() / 2);
-    var km = px * _1km;
+    var km = px * _10kly;
     var distance = km * unitTable[unit];
     $('#counter').text(Math.max(0, distance.toFixed(1)).toString().replace(".", decimalmark).replace(/\B(?=(\d{3})+(?!\d))/g, delimeter) + ' ' + $('#' + unit).text());
 	
