@@ -406,6 +406,20 @@ img, img a {
 	font-size:2em;
 }
 
+#lmc {
+	position: absolute;
+	left: 16px;
+	height: 3px;
+	width: 3px;
+	fill: #ffffff;
+}
+#lmctxt {
+	top: 44px;
+	left: 230px;
+	color: #ffffff;
+	padding-left: 20px;
+}
+
 #m31 {
 	position: absolute;
 	left: 240px;
