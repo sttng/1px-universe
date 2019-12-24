@@ -409,14 +409,14 @@ img, img a {
 #lmc {
 	position: absolute;
 	top: 24px
-	left: 16px;
-	height: 5px;
-	width: 5px;
+	left: 26px;
+	height: 3px;
+	width: 3px;
 	fill: #ffffff;
 }
 #lmctxt {
 	top: 44px;
-	left: 16px;
+	left: 26px;
 	color: #ffffff;
 	padding-left: 20px;
 }
