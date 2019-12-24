@@ -408,6 +408,7 @@ img, img a {
 
 #lmc {
 	position: absolute;
+	top: 24px
 	left: 16px;
 	height: 5px;
 	width: 5px;
