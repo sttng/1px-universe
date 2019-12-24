@@ -465,16 +465,16 @@ img, img a {
 
 #gnz11 {
 	position: absolute;
-	left: 110000px;
+	left: 210000px;
 	height: 1px;
 	width: 1px;
 	fill: #ffffcc;
 }
 #gnz11txt {
 	top: 144px;
-	left: 110000px;
+	left: 210000px;
 	color: #ffffcc;
-	padding-left: 10px;
+	padding-left: 0px;
 }
 
 #mars {
