@@ -1,13 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="1280.0pt" height="1188.0pt" viewBox="0 0 1280.0 1188.0"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-</metadata>
-<g transform="translate(0.000000,1188.000000) scale(0.100000,-0.100000)"
-fill="#e6ffff" stroke="none">
+<svg version="1.1" id="milkyway" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="1280px" height="1188px" viewBox="0 0 1280 1188">
+<g fill="#e6ffff" transform="translate(0,1188) scale(0.10,-0.10)">
 <path d="M10419 11810 c905 -1147 1471 -2422 1641 -3691 65 -491 67 -1096 5
 -1566 -141 -1069 -564 -2031 -1241 -2823 -126 -148 -397 -418 -544 -544 -1066
 -911 -2401 -1301 -3614 -1054 -1465 297 -2638 1509 -2546 2632 35 437 198 751
