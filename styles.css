@@ -420,6 +420,12 @@ img, img a {
 	color: #b3b3ff;
 	padding-left: -4px;
 }
+#lmctxt1 {
+	margin-top:-110px;
+	left: 23px;
+	color: #b3b3ff;
+	font-size:2em;
+}
 
 #m31 {
 	position: absolute;
