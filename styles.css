@@ -365,18 +365,7 @@ img, img a {
 	padding-left: 200px;
 	color: #ffcc00;
 }
-#venus {
-	position: absolute;
-	left: 31138px;
-	height: 4px;
-	width: 4px;
-	fill: #86ffca;
-}
-#venustxt {
-	left: 30935px;
-	color: #86ffca;
-	padding-left: 200px;
-}
+
 #earth {
 	position: absolute;
 	left: 2px;
