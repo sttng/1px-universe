@@ -2997,7 +2997,7 @@ var translations = {
 		'nl':"km",
 		'iw':" ק''מ  ",
 		'jp':"ｋｍ",
-		'de':"km",
+		'de':"Lichtjahre",
 		'el': "χλμ",
 		'tr': "km",
 		'ru': "км",
