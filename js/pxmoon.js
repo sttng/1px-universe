@@ -2,22 +2,23 @@
         var lightspeed = 299792 // km/s
 	var _1km = 3474.8
 	var _10kly = 10000
-        var unit = 'km'
+        var unit = 'ly' //'km'
         var delimeter = ','
 	var decimalmark = '.'
-	var unitname = 'km'
+	var unitname = 'ly' //'km'
         var language = languages.English
         var currentRAFID = 0 // from requestAnimationFrame
 	var isSpeeding = 0
         var unitTable = {
+            ly: 1,
             km: 1,
             mi: 0.621371,
             au: 6.68458712e-9,
-			 lightminutes: 0.0000000555941,
-			 earths: 0.0000785238,
+            lightminutes: 0.0000000555941,
+            earths: 0.0000785238,
             buses: 79.36,
-			 bluewhales:33.3333,
-			 greatwalls: 0.00011297137305,
+            bluewhales:33.3333,
+            greatwalls: 0.00011297137305,
             pixels: 0.0002877863474156786
         }
 		var msgTimer
