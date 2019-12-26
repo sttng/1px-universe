@@ -311,26 +311,6 @@ img, img a {
 	color: #eaeaea;
 	text-transform: uppercase;
 }
-#sunwrap {
-	left: -200px;
-	position:absolute;
-	top:-150px;
-	z-index:2;
-}
-#sun {
-	position: relative;
-	height: 10px;
-	width: 10px;
-	fill: #fde301;
-}
-#suntxt {
-	text-align:center;
-	margin:0 auto;
-	width: 400px;
-	top: 84px;
-	color: #000000;
-	font-size: 2em;
-}
 
 #milkywaywrap {
 	left: -5px;
