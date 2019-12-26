@@ -345,28 +345,15 @@ img, img a {
 	z-index:3;
 }
 #earthtxt {
-	left: -474px;
+	left: -494px;
 	top: 10px;
 	color: #66b3ff;
 	padding-left: 500px;
 }
-#moon {
-	position: absolute;
-	left: 43164px;
-	height: 1px;
-	width: 1px;
-	fill: #ffffff;
-}
-#moontxt {
-	margin-top:-110px;
-	left: 43164px;
-	color: #FFFFFF;
-	font-size:2em;
-}
 
 #lmc {
 	position: absolute;
-	left: 31px;
+	left: 30px;
 	top: 10px;
 	height: 3px;
 	width: 3px;
