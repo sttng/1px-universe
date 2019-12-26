@@ -349,8 +349,10 @@ img, img a {
 	margin:0 auto;
 	width: 400px;
 	top: -164px;
+	left: -474px;
 	color: #cceeff;
 	font-size: 2em;
+	padding-left: 500px;
 }
 
 #earth {
