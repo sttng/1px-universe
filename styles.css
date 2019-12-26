@@ -345,10 +345,10 @@ img, img a {
 	z-index:3;
 }
 #earthtxt {
-	left: -3px;
+	left: -474px;
 	top: 10px;
 	color: #66b3ff;
-	padding-left: 0px;
+	padding-left: 500px;
 }
 #moon {
 	position: absolute;
@@ -366,7 +366,7 @@ img, img a {
 
 #lmc {
 	position: absolute;
-	left: 32px;
+	left: 31px;
 	top: 10px;
 	height: 3px;
 	width: 3px;
