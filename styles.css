@@ -341,13 +341,13 @@ img, img a {
 	top: 10px;
 	height: 0.5px;
 	width: 0.5px;
-	fill: #ffcc00;
+	fill: #ff9900;
 	z-index:3;
 }
 #earthtxt {
-	left: -503px;
+	left: -502px;
 	top: 10px;
-	color: #ffcc00;
+	color: #ff9900;
 	padding-left: 500px;
 }
 
