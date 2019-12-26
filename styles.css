@@ -353,19 +353,6 @@ img, img a {
 	font-size: 2em;
 }
 
-#mercury {
-	position: absolute;
-	left: 16666px;
-	height: 1px;
-	width: 1px;
-	fill: #ffcc00;
-}
-#merctxt {
-	left: 16462px;
-	padding-left: 200px;
-	color: #ffcc00;
-}
-
 #earth {
 	position: absolute;
 	left: 2px;
