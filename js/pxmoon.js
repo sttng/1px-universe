@@ -2,10 +2,10 @@
         var lightspeed = 299792 // km/s
 		 var _1km = 3474.8
 		 var _10kly = 10000
-        var unit = 'km'
+        var unit = 'light years' //'km'
 		 var delimeter = ','
 		 var decimalmark = '.'
-		 var unitname = 'km'
+		 var unitname = 'light years' //'km'
         var language = languages.English
         var currentRAFID = 0 // from requestAnimationFrame
 		 var isSpeeding = 0
