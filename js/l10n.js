@@ -2990,7 +2990,7 @@ var translations = {
 		'ro': "Va trebui să aranjați cu dl. Einstein." 
 	},	
 	'km': {
-		'en':"km",
+		'en':"light years",
 		'fr':"km",
 		'es':"Kilómetros",
 		'pt':"km",
