@@ -1,14 +1,14 @@
 // Thanks to Krilnon at Kirupa.com (Kyle Murray) for a lot of this
         var lightspeed = 299792 // km/s
-		 var _1km = 3474.8
-		 var _10kly = 10000
-        var unit = 'light years'
-		 var delimeter = ','
-		 var decimalmark = '.'
-		 var unitname = 'km'
+	var _1km = 3474.8
+	var _10kly = 10000
+        var unit = 'km'
+        var delimeter = ','
+	var decimalmark = '.'
+	var unitname = 'km'
         var language = languages.English
         var currentRAFID = 0 // from requestAnimationFrame
-		 var isSpeeding = 0
+	var isSpeeding = 0
         var unitTable = {
             km: 1,
             mi: 0.621371,
