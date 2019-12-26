@@ -5,7 +5,7 @@
         var unit = 'km'
 		 var delimeter = ','
 		 var decimalmark = '.'
-		 var unitname = 'km'
+		 var unitname = 'light years'
         var language = languages.English
         var currentRAFID = 0 // from requestAnimationFrame
 		 var isSpeeding = 0
