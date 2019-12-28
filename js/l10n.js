@@ -1,4 +1,3 @@
-
 var translations = {
 	'pgtitle': {
 		'en': "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
@@ -11,14 +10,14 @@ var translations = {
 		'zt': "太陽"	
 	},
 	'ten-million-km': {
-       'en': "That was about 10 million km (6,213,710 mi) just now.",
-	   'de': "Das waren gerade etwa 10 Millionen km",
+		'en': "That was about 10 million km (6,213,710 mi) just now.",
+		'de': "Das waren gerade etwa 10 Millionen km",
 		'zt': "現在差不多是一千萬公里（6,213,710 地圖"
 	},
      'pretty-empty': {
 		 'en': "Pretty empty out here.",
 		 'de': "Ziemlich leer hier draußen.",
-		'zt': "這裡真的是挺空曠的。"
+		 'zt': "這裡真的是挺空曠的。"
     },
 	'here-comes-our': {
 		'en': "Here comes our first planet",
@@ -28,7 +27,7 @@ var translations = {
      'as-it-turns': {
 		 'en': "As it turns out, things are pretty far apart.",
 		 'de': "Wie es sich herausstellt, sind die Dinge ziemlich weit auseinander",
-		'zt': "你會發現，星體間的距離其實相當遙遠。"
+		 'zt': "你會發現，星體間的距離其實相當遙遠。"
     },
      'well-be-coming': {
 		 'en': "We’ll be coming up on a new planet soon. Sit tight.",
@@ -58,15 +57,12 @@ var translations = {
 	 'destination-mars': {
 		 'en': "Destination: Mars!",
 		 'de': "Reiseziel: Mars!",
-		'zt': "下個目的地：火星！",
-		'kr': "다음 역: 화성!",
-		'ro': "Destinația: Marte!" 
+		'zt': "下個目的地：火星！"
     },
      'it-would-take': {
        	'en': "It would take about seven months to travel this distance in a spaceship.",
 		'de': "Es dauerte etwa sieben Monate, um diese Entfernung in einem Raumschiff zu reisen.",
-		'zt': "這航程若是搭乘太空船需要耗費七個月的時間。" 
-		
+		'zt': "這航程若是搭乘太空船需要耗費七個月的時間。" 		
     },
 	'better-be-some': {
 		'en': "Better be some good in-flight entertainment.",
@@ -107,105 +103,22 @@ var translations = {
 	},
 	'i-spy-with': {
 		'en': "I spy, with my little eye... something black.",
-		'fr': "Sur votre gauche, du noir. Sur votre droite... du noir.",
-		'es': "Veo, veo. Que ves…? Algo negro.",
-		'pt': "Olhando e esperando… qualquer coisa.",
-		'nl': "Ik zie ik zie wat jij niet ziet… en het is zwart.",
-		'iw': "אני רואה משהו.... שחור",
-		'jp': "今の小さな黒いもの…なんだったんでしょうか。",
 		'de': "Ich sehe was, was du nicht siehst... und das ist schwarz..",
-		'el': "Βλέπω, με το μικρό μου μάτι... κάτι μαύρο.",
-		'tr': "Her yer siyahlık.",
-		'ru': "Угадайте, на что я сейчас смотрю (подсказка: оно чёрное).",
-		'ua': "Здається, я бачу… щось чорне.",
-		'it': "Vedo, vedo… qualcosa di nero.",
-		'fa': "",
-		'zh': "黑夜给了我黑色的眼睛，却只能看见一片虚无~",
-		'sv': "Jag skådar med mitt öga... något svart.",
-		'pl': "Patrzę na... coś czarnego.",
-		'hu': "Nicsak, mit látnak szemeim … valami feketét.",
-		'hy': "Գուշակէք թէ ի՞նչ եմ տեսնում.... մի սեւ բան: ",
-		'bg': "Видях нещо с крайчеца на окото си… нещо черно.",
-		'vi': "Ở bên trái bạn… màu đen. Ở bên phải bạn… màu đen.",
-		'zt': "我望向你的臉~~卻只能看見一片虛無~~（♫）",
-		'kr': "제 작은 눈에는 보여요... 시커먼 것이.",
-		'ro': "Parcă se începe să se vadă… ceva negru." 
+		'zt': "我望向你的臉~~卻只能看見一片虛無~~（♫）"
 	},
 	'if-you-were': {
 		'en': "If you were on a road trip, driving at 75mi/hr, it would have taken you over 500 years to get here from earth.",
-		'fr': "Si vous étiez en train de conduire à 120 km/h, il vous aurait fallu 500 ans pour arriver ici en partant de la Terre.",
-		'es': "Si estuvieras en un viaje en carretera, a una velocidad de 120 km/hora (75 millas/hora), habrías necesitado 500 años para llegar aquí desde la Tierra.",
-		'pt': "Se isso fosse uma estrada e você estivesse a 120km/h teria levado 500 anos para chegar aqui desde a Terra.",
-		'nl': "Als je deze reis met de auto zou doen, met 120 km per uur, dan zou je nu al meer dan 500 jaar onderweg zijn vanaf de aarde.",
-		'iw': "לו הייתם יוצאים לנסיעה, ונוהגים במהירות של כ-120 קילומטרים לשעה, היו נדרשות לכם מעל ל500 שנה להגיע לכאן מכדור הארץ",
-		'jp': "もしもあなたが車で時速１２０ｋｍ出して長旅してたとしたら、地球からここまでくるのに５００年以上がかかっていたことになります。",
 		'de': "Wenn wir eine Spritztour mit 120 km/st unternehmen, um von hier bis zur Erde zu gelangen, würde es ungefähr 500 Jahre dauern.",
-		'el': "Αν ταξιδεύατε με το αυτοκίνητο, οδηγώντας με 120χλμ/ώρα, θα σας έπαιρνε πάνω από 500 χρόνια για να φτάσετε εδώ από την γη.",
-		'tr': "Arabayla saatte 125km hızla yolculuk ediyor olsaydınız dünyadan buraya gelmeniz 500 yıldan fazla sürerdi.",
-		'ru': "Если бы вы ехали по шоссе со скоростью 120 км/ч, вы добрались бы сюда с Земли за 500 лет.",
-		'ua': "Якби ви їхали зі швидкістю 120 км/год, вам знадобилося б більше 500 років, щоб дістатися сюди з Землі.",
-		'it': "Se steste facendo un viaggio, guidando a 120 km/h, vi ci vorrebbero più di 500 anni per arrivare qua dalla Terra.",
-		'fa': "",
-		'zh': "假如你以120km/h的速度开车从地球出发，那你要花500年才能到这。",
-		'sv': "Om du åkte bil, i 120km/h, så skulle det ha tagit dig över 500 år att ta dig hit från jorden.",
-		'pl': "Gdyby jechać z prędkością 120 km/h, dotarcie tutaj z Ziemi zajęłoby ponad 500 lat.",
-		'hu': "Ha nekivágnál az útnak 120 kilométer/óra sebességgel, még úgy is több, mint 500 évig tartana, mire ideérnél a Földtől.",
-		'hy': "Եթէ դուք վարէիք ինքնաշարժը մօտ 120 կմ/ժ արագութեամբ, Երկրից այստեղ հասնելը կ'տեւէր 500 տարի:",
-		'bg': "Ако се движим със скорост 120 km/h, ще ни отнеме повече от 500 години, за да стигнем от Земята до тук.",
-		'vi': "Nếu bạn đang lái xe với tốc độ 120 km/h, bạn sẽ cần 500 năm để đi từ Trái Đất đến đây.",
-		'zt': "假設你以 120 公里的時速來趟瀟灑的公路旅行，從地球到達現在這個位置也是 500 年之後的事情了。",
-		'kr': "시속 75 마일로 내내 운전한다고 가정했을 때, 지구에서 여기까지 오려면 500년 넘게 걸려요.",
-		'ro': "Dacă ați goni pe o șosea cu 120 km/h, v-ar lua peste 500 ani ca să ajungeți de la Pământ până aici." 
+		'zt': "假設你以 120 公里的時速來趟瀟灑的公路旅行，從地球到達現在這個位置也是 500 年之後的事情了。"
 	},
 	
 	'all-these-distances': {
 		'en': "All these distances are just averages, mind you.",
-		'fr': "Cela dit, toutes ces distances ne sont que des moyennes.",
-		'es': "Todas estas distancias son medias, tenlo en cuenta.",
-		'pt': "Todas essas distâncias são médias - tenha em mente isso.",
-		'nl': "Let op, we hebben het hier over gemiddelde afstanden.",
-		'iw': "שימו לב שכל המרחקים שאנו מדברים עליהם הם המרחקים הממוצעים",
-		'jp': "これらの距離はあくまで平均です、念のため。",
 		'de': "Alle diese Strecken sind übrigens nur Durchschnittswerte.",
-		'el': "Υπόψιν, όλες αυτές οι αποστάσεις είναι μόνο μέσοι όροι.",
-		'tr': "Hatırlatayım ki bu mesafelerin hepsi ortalama.",
-		'ru': "Кстати, все эти расстояния — усреднённые.",
-		'ua': "Нагадую, що все це – середні відстані.",
-		'it': "Tutte queste distanze sono solo delle medie, intendiamoci.",
-		'fa': "",
-		'zh': "友情提示：这些距离都只是平均值。",
-		'sv': "Alla dessa avstånd är bara ungefärligheter, så du vet.",
-		'pl': "Pamiętaj, że wszystkie te odległości są tylko przybliżone.",
-		'hu': "Ezek a távolságok csak átlagosak, gondolod.",
-		'hy': "Նկատի ունեցէ՛ք, բոլոր այս հեռաւորութիւնները միջին են:",
-		'bg': "Тези разстояния са средно големи спрямо мащаба на Космоса.",
-		'vi': "Nên nhớ, những khoảng cách này chỉ là nói một cách trung bình.",
-		'zt': "溫馨提醒：這些距離都只是平均而言。",
-		'kr': "주의할 점은, 이렇게 표현한 거리도 평균일 뿐이라는 거예요.",
-		'ro': "Nu uitați că toate acestea sunt distanțe medii." 
-	},
+		'zt': "溫馨提醒：這些距離都只是平均而言。"
 	'the-distance-between': {
 		'en': "The distance between planets really depends on where the two planets are in their orbits around the sun. ",
-		'fr': "En fait, la distance qui sépare une planète d'une autre dépend surtout de l'endroit où elles se trouvent sur leur orbite autour du soleil.",
-		'es': "La distancia entre planetas depende realmente de donde se encuentren dichos planetas en su órbita alrededor del sol.",
-		'pt': "A distância real entre os planetas depende de onde eles se encontram em suas órbitas em torno do Sol.",
-		'nl': "De afstand tussen planeten hangt in het echt af van waar de twee planeten precies staan in hun baan om de zon.",
-		'iw': "המרחק בין שני כוכבי לכת תלוי היכן הם נמצאים במסלולם מסביב לשמש",
-		'jp': "惑星どうしの距離は、その２つの惑星が太陽周囲の軌道のどこに位置しているかによって変わります。",
 		'de': "Der Abstand zwischen den Planeten hängt wirklich davon ab , wo die beiden Planeten in ihren Bahnen um die Sonne gerade sind.",
-		'el': "Η απόσταση μεταξύ πλανητών πραγματικά εξαρτάται από το σημείο που βρίσκονται στην τροχιά τους γύρω από τον ήλιο.",
-		'tr': "İki gezegen arası gerçek mesafe güneş etrafındaki turlarında hangi noktada olduklarına bağlıdır.",
-		'ru': "Расстояние между планетами зависит от того, в какой точке орбиты они находятся относительно Солнца.",
-		'ua': "Насправді, дистанція між планетами залежить від їх місцерозташування на орбіті.",
-		'it': "La distanza tra i pianeti in realtà dipende dalla loro posizione nelle loro orbite attorno al sole.",
-		'fa': "",
-		'zh': "两颗行星间的实际距离取决于它们在公转轨道上的相对位置。",
-		'sv': "Avståndet mellan planeter beror egentligen på var de två planeterna är i sina banor runt solen.",
-		'pl': "Tak naprawdę odległość między planetami zależy od tego, gdzie te dwie planety znajdują się na swoich orbitach wokół Słońca.",
-		'hu': "A bolygók közti távolság valójában attól függ, hogy két bolygó a Nap körüli pályájának éppen melyik pontján jár. ",
-		'hy': "Մոլորակների միջեւ հեռաւորութիւնը կախուած է, թէ որտեղ են գտնւում այդ 2 մոլորակները  իրենց ուղեծրերի վրայ:",
-		'bg': "Разстоянието между две планети зависи от положението на планетите в техните орбити около Слънцето.",
-		'vi': "Khoảng cách thực sự giữa những hành tinh phụ thuộc vào chúng ở nơi nào trên quỹ đạo quay quanh Mặt Trời của chúng.",
 		'zt': "兩顆行星的實際距離取決於它們各自公轉軌道上的相對位置。",
 		'kr': "행성 사이의 거리는 해를 따라 도는 각각의 궤도에서 서로 어디에 위치하는지에 따라 달라져요.",
 		'ro': "Distanțele dintre planete depind de poziția acestora pe orbitele din jurul Soarelui." 
