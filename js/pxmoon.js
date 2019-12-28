@@ -73,9 +73,9 @@ $(function() {
 	});
 	//don't forget planets
 	var planetMarks = [
-		$('#suntxt').offset().left - 200,
-		$('#merctxt').offset().left - 200,
-		$('#venustxt').offset().left - 200,
+		$('#soltxt').offset().left - 200,
+		$('#lmctxt').offset().left - 200,
+		$('#m31txt').offset().left - 200,
 		$('#earthtxt').offset().left - 200,
 		$('#marstxt').offset().left - 200,
 		$('#jupitertxt').offset().left - 200,
