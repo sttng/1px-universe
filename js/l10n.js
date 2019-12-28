@@ -65,111 +65,45 @@ var translations = {
      'it-would-take': {
        	'en': "It would take about seven months to travel this distance in a spaceship.",
 		'de': "Es dauerte etwa sieben Monate, um diese Entfernung in einem Raumschiff zu reisen.",
-		'zt': "這航程若是搭乘太空船需要耗費七個月的時間。",
-		'kr': "우주선으로 이만큼 오려면 거의 7 개월이 걸려요. ",
-		'ro': "Durează cam șapte luni să parcurgi această distanță cu o navă spațială." 
+		'zt': "這航程若是搭乘太空船需要耗費七個月的時間。" 
 		
     },
 	'better-be-some': {
 		'en': "Better be some good in-flight entertainment.",
 		'de': "",
-		'kr': "선내에서 즐길 흥밋거리를 잘 마련해야겠지요.",
-		'ro': "Ar fi bine să aibă niște filme bune pe durata zborului."  
+		'kr': "선내에서 즐길 흥밋거리를 잘 마련해야겠지요."  
 	},
 	
 	'in-case-youre': {
 		'en': "In case you're wondering, you'd need about 2000 feature-length movies to occupy that many waking hours.",
 		 'de': "Du solltest also ca. 2000 abendfüllende Spielfilme mit einpacken, um die Zeit tot zu schlagen.",
-		'zt': "如果你想知道的話，您大概會需要 2000 部電影才能消磨掉這些處於清醒的時候。",
-		'kr': "참고로, 그 시간 동안 줄곧 깨어 있다면 2000 편 정도의 영화를 볼 수 있어요.",
-		'ro': "În caz că v-ați pus întrebarea, ar fi nevoie cam de 2000 de filme de lung-metraj pentru a umple atâtea ore de veghe." 
+		'zt': "如果你想知道的話，您大概會需要 2000 部電影才能消磨掉這些處於清醒的時候。" 
 	},
 	'sit-back-and': {
 		'en': "Sit back and relax. Jupiter is more than 3 times as far as we just traveled.",
 		'de': "Ich hoffe Du sitzt noch immer bequem. Denn Jupiter, unser nächster Planet, ist mehr als drei Mal so weit weg als die bisher zurückgelegte Distanz.",
-		'zt': "調整一下坐姿吧，從這裡到木星是我們目前路途的三倍遠呢。",
-		'kr': "편히 앉아서 쉬세요. 목성까지는 여태 온 것보다 3 배 더 멀어요.",
-		'ro': "Relaxați-vă. Până la Jupiter e o distanță de 3 ori mai mare decât cea pe care ați parcurs-o până acum." 
+		'zt': "調整一下坐姿吧，從這裡到木星是我們目前路途的三倍遠呢。" 
 	},
 	
 	'when-are-we': {
 		'en': "When are we gonna be there?",
 		'de': "Wann sind wir endlich da?",
-		'zt': "啊是要到了沒？",
-		'kr': "언제쯤 도착할까요?",
-		'ro': "Mai e mult?" 
+		'zt': "啊是要到了沒？" 
 	},
 	'seriously-when-are': {
 		'en': "Seriously. When are we gonna be there?",
 		'de': "Ernsthaft! Wann sind wir endlich da?",
-		'el': "Σοβαρά. Πότε φτάνουμε;",
-		'tr': "Cidden. Nerede kaldık?",
-		'ru': "Кроме шуток. Когда мы уже приедем?",
-		'ua': "Серйозно. Далеко ще?",
-		'it': "Seriamente. Quando arriveremo?",
-		'fa': "",
-		'zh': "说真的，我们啥时候能到木星？",
-		'sv': "Seriöst. När kommer vi att vara framme?",
-		'pl': "A tak serio, kiedy już tam będziemy?",
-		'hu': "Komolyan. Mikor érünk már oda?",
-		'hy': "Չէ, լուրջ: Եր՞բ ենք տեղ հասնելու:",
-		'bg': "Сериозно – кога ще пристигнем?",
-		'vi': "Nghiêm túc đấy. Khi nào chúng ta sẽ đến nơi ?",
-		'zt': "到底～～是要到了沒啊？",
-		'kr': "아 글쎄. 도대체 언제 도착할까요?",
-		'ro': "Serios. Când ajungem?" 
+		'zt': "到底～～是要到了沒啊？"
 	},
 	'this-is-where': {
 		'en': "This is where we might at least see some asteroids to wake us up.",
-		'fr': "C'est ici que l'on pourrait voir quelques astéroïdes pour nous réveiller.",
-		'es': "Aquí es donde podríamos ver algunos asteroides para despertarnos un poco.",
-		'pt': "Este é o lugar onde podemos ver pelo menos alguns asteroides para nos acordar.",
-		'nl': "Hé, wakker blijven! Hier zouden we zomaar een paar échte asteroïden kunnen zien.",
-		'iw': "פה אנו כבר יכולים לראות כמה אסטרואידים",
-		'jp': "ここらで最低、目覚ましに小惑星くらい現れてもおかしくありません。",
-		'de': "Vielleicht sehen wir hier zumindest ein Paar Asteroiden, um uns wach zu halten.",
-		'el': "Εδώ τουλάχιστον θα μπορούσαμε να δούμε μερικούς αστεροειδής για να μας ξυπνήσουν.",
-		'tr': "Bu noktada en azından birkaç asteroid bizi uyandırırdı.",
-		'ru': "Здесь можно было бы по крайней мере полюбоваться астероидами.",
-		'ua': "Ось тут, принаймні, літають астероїди.",
-		'it': "Qui potremmo almeno vedere degli asteroidi per tenerci svegli.",
-		'fa': "",
-		'zh': "这里本应有些小行星让我们打起精神。",
-		'sv': "Här kanske vi åtminstone kan få se ett par asteroider som kan väcka oss.",
-		'pl': "To jest miejsce, gdzie moglibyśmy zobaczyć przynajmniej asteroidy, które by nas zbudziły.",
-		'hu': "Itt legalább láthatnánk pár aszteroidát, amik felpezsdíthetnének.",
-		'hy': "Սա այն տեղն է, որտեղ կարող էինք տեսնել աստղակերպներ (աստերոիդներ):",
-		'bg': "Тук може поне да видим някой астероид.",
-		'vi': "Đây là nơi mà ít ra có một vài tiểu hành tinh để chúng ta dậy ngắm.",
-		'zt': "這裡本來有一些可以讓我們稍微清醒一點的小行星們。",
-		'kr': "이쯤 오면 여행할 때 졸다가 부딪혀 깰 법한 소행성들이 있을 거예요.",
-		'ro': "Cam pe aici ar trebui să vedem ceva asteroizi care să ne trezească." 
+		'de': "Vielleicht sehen wir hier zumindest ein Paar Asteroiden, um uns wach zu halten."
+		'zt': "這裡本來有一些可以讓我們稍微清醒一點的小行星們。"
 	},
 	'too-bad-theyre': {
 		'en': "Too bad they're all too small to appear on this map.",
-		'fr': "Mais ils sont trop petits pour apparaître sur cette carte. Dommage.",
-		'es': "Lo malo es que son demasiado pequeños para aparecer en este mapa.",
-		'pt': "Pena que eles são todos muito pequenos para aparecer nessa escala.",
-		'nl': "Jammer dat ze te klein zijn voor deze kaart.",
-		'iw': "חבל שהם קטנים מידי בכדי להופיע במפה זו",
-		'jp': "残念ながら、小惑星はここでは小さすぎて表示されません。",
 		'de': "Nur zu dumm, dass sie alle zu klein sind, um sie auf dieser Karte darzustellen.",
-		'el': "Κρίμα που είναι τόσο μικροί για να εμφανιστούν σε αυτόν τον χάρτη.",
-		'tr': "Bu haritada gösteremeyecek kadar küçük olmaları talihsiz.",
-		'ru': "Увы, все они слишком малы, чтобы увидеть их на этой карте.",
-		'ua': "Шкода, вони надто малі, щоб бути видними на цій мапі.",
-		'it': "Peccato siano tutti troppo piccoli per apparire su questa mappa.",
-		'fa': "",
-		'zh': "可惜它们太小了，在这地图上显示不出来。",
-		'sv': "Synd att de är alltför små för att visas på den här kartan.",
-		'pl': "Niestety są za małe, żeby je można było zaznaczyć na tej mapie.",
-		'hu': "Kár, hogy túl kicsik, ahhoz hogy megjelenjenek a térképen.",
-		'hy': "Ցաւօք սրտի, նրանք շատ փոքր են որ երեւան այս քարտէզում:",
-		'bg': "Жалко, те са твърде малки, за да се виждат на тази карта.",
-		'vi': "Thật tệ là chúng quá bé để nhìn thấy được trên bản đồ này.",
-		'zt': "但可惜，它們小到沒辦法顯示在這張地圖上。",
-		'kr': "나타내기엔 비율 상 너무 작아서 아쉽네요.",
-		'ro': "Păcat că sunt prea mici pentru a apărea pe această hartă." 
+		'zt': "但可惜，它們小到沒辦法顯示在這張地圖上。"
 	},
 	'i-spy-with': {
 		'en': "I spy, with my little eye... something black.",
