@@ -335,7 +335,7 @@ img, img a {
 	padding-left: 0px;
 }
 
-#earth {
+#sol {
 	position: absolute;
 	left: 2px;
 	top: 10px;
@@ -344,7 +344,7 @@ img, img a {
 	fill: #ff9900;
 	z-index:3;
 }
-#earthtxt {
+#soltxt {
 	left: -502px;
 	top: 10px;
 	color: #ff9900;
@@ -423,19 +423,6 @@ img, img a {
 	padding-left: 0px;
 }
 
-#mars {
-	position: absolute;
-	left: 240px;
-	height: 20px;
-	width: 20px;
-	fill: #ff7443;
-}
-#marstxt {
-	top: 44px;
-	left: 45px;
-	color: #ff7443;
-	padding-left: 200px;
-}
 #jupiter {
 	position: absolute;
 	left: 224041px;
@@ -497,32 +484,7 @@ img, img a {
 	position:absolute;
 	left: 0px
 }
-#uranus {
-	position: absolute;
-	left: 827961px;
-	height: 14px;
-	width: 14px;
-	fill: #18E6FF;
-}
-#uranustxt {
-	top: 28px;
-	left: 827763px;
-	color: #18E6FF;
-	padding-left: 200px;
-}
-#neptune {
-	position: absolute;
-	left: 1295901px;
-	height: 14px;
-	width: 14px;
-	fill: #45B9FF;
-}
-#neptunetxt {
-	top: 24px;
-	left: 1295703px;
-	color: #45B9FF;
-	padding-left: 200px;
-}
+
 #triton {
 	position:absolute;
 	left: 1295805px;
