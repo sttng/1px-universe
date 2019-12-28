@@ -423,51 +423,10 @@ img, img a {
 	padding-left: 0px;
 }
 
-#jupiter {
-	position: absolute;
-	left: 224041px;
-	height: 40px;
-	width: 40px;
-	fill: #ffa043;
-}
-#jupitertxt {
-	top: 44px;
-	left: 223842px;
-	color: #ffa043;
-	padding-left: 200px;
-}
-#jupitermoons {
-	position: absolute;
-	left: 224162px;
-	color: #F0E8E0;
-	font-size:.4em;
-}
 .moondot {
 	margin:0 6px 2px 0;
 }
-#io {
-	position:absolute;
-	left: 0px;
-}
-#europa {
-	position:absolute;
-	left: 193px;
-}
-#ganymede {
-	position:absolute;
-	left: 307px;
-}
-#callisto {
-	position:absolute;
-	left: 541px;
-}
-#saturn {
-	position: absolute;
-	left: 412397px;
-	height: 34px;
-	width: 65px;
-	fill: #ffa043;
-}
+
 #saturntxt {
 	top: 44px;
 	left: 412225px;
