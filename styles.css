@@ -427,6 +427,13 @@ img, img a {
 	margin:0 6px 2px 0;
 }
 
+#saturn {
+	position: absolute;
+	left: 412225px;
+	height: 15px;
+	width: 15px;
+	fill: #f9d293;
+}
 #saturntxt {
 	top: 44px;
 	left: 412225px;
