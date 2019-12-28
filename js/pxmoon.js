@@ -77,7 +77,7 @@ $(function() {
 		$('#lmctxt').offset().left - 200,
 		$('#m31txt').offset().left - 200,
 		$('#ngc6872txt').offset().left - 200,
-		$('#marstxt').offset().left - 200,
+		$('#ic1101txt').offset().left - 200,
 		$('#jupitertxt').offset().left - 200,
 		$('#saturntxt').offset().left - 200,
 		$('#neptunetxt').offset().left - 200,
