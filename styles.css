@@ -397,14 +397,14 @@ img, img a {
 
 #ic1101 {
 	position: absolute;
-	top: -64px;
+	top: -84px;
 	left: 99920px;
 	height: 200px;
 	width: 200px;
 	fill: #ffffcc;
 }
 #ic1101txt {
-	top: 64px;
+	top: 84px;
 	left: 99510px;
 	color: #ffffcc;
 	padding-left: 506px;
