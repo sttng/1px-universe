@@ -38,32 +38,10 @@ var translations = {
      'most-of-space': {
 		 'en': "Most of space is just space.",
 		 'de': "Zwischen den Planeten ist meistens nur langweiliger leerer Raum.",
-		'el': "Το μεγαλύτερο μέρος τους διαστήματος είναι απλά κενό.",
-		'tr': "Uzayın çoğu sadece boşluk.",
-		'ru': "«Космическое пространство» — в основном просто пространство.",
-		'ua': "Переважно космос порожній.",
-		'it': "La maggior parte dello spazio è solamente spazio.",
-		'fa': "",
-		'zh': "大部分空间只是空荡荡的。",
-		'sv': "Det mesta av rymden är bara rymd.",
-		'pl': "Większość przestrzeni kosmicznej to po prostu przestrzeń.",
-		'hu': "Az űr többnyire csak  űr(es).",
-		'hy': "Տիեզերական տարածութեան մեծ մասը ուղղակի տարածութիւն է:",
-		'bg': "Голяма част от пространството е празно.",
-		'vi': "Phần lớn không gian, chính là khoảng không.",
-		'zt': "太空基本上真的就是個太過空曠的地方。",
-		'kr': "우주의 대부분은 그저 빈칸이에요.",
-		'ro': "Cea mai mare parte a spațiului este doar spațiu."  
-		 
+		'zt': "太空基本上真的就是個太過空曠的地方。"  	 
     },
      'halfway-home': {
 		 'en': "Halfway home",
-		 'fr': "On est presque arrivés chez nous.",
-		 'es': "A medio camino de casa.",
-		 'pt': "Metade do caminho para casa.",
-		 'nl': "Halverwege onze eigen planeet",
-		 'iw': "אנו כבר בחצי הדרך",
-		 'jp': "地球まで、ここで真ん中",
 		 'de': "Halbwegs zu Hause",
 		'el': "Στα μέσα της διαδρομής για την κατοικία μας",
 		'tr': "Neredeyse evdeyiz.",
