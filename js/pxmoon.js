@@ -76,7 +76,7 @@ $(function() {
 		$('#soltxt').offset().left - 200,
 		$('#lmctxt').offset().left - 200,
 		$('#m31txt').offset().left - 200,
-		$('#earthtxt').offset().left - 200,
+		$('#ngc6872txt').offset().left - 200,
 		$('#marstxt').offset().left - 200,
 		$('#jupitertxt').offset().left - 200,
 		$('#saturntxt').offset().left - 200,
