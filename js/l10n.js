@@ -93,7 +93,7 @@ var translations = {
 	},
 	'this-is-where': {
 		'en': "This is where we might at least see some asteroids to wake us up.",
-		'de': "Vielleicht sehen wir hier zumindest ein Paar Asteroiden, um uns wach zu halten."
+		'de': "Vielleicht sehen wir hier zumindest ein Paar Asteroiden, um uns wach zu halten.",
 		'zt': "這裡本來有一些可以讓我們稍微清醒一點的小行星們。"
 	},
 	'too-bad-theyre': {
@@ -126,7 +126,7 @@ var translations = {
 	
 	'so-if-youre': {
 		'en': "So if you're planning on taking a trip to Jupiter, you might want to use a different map.",
-		'de': "Also, wenn du auf eine Reise zum Jupiter planst , solltest du vielleicht eine andere Karte verwenden .",
+		'de': "Also, wenn du auf eine Reise zum Jupiter planst, solltest du vielleicht eine andere Karte verwenden .",
 		'zt': "所以今天如果你是想去木星觀光，那可能要拿另一張地圖了。" 
 	},
 	'if-you-plan': {
@@ -148,9 +148,7 @@ var translations = {
 	'pretty-close-to': {
 		'en': "Pretty close to Jupiter now.",
 		'de': "Gleich sehen wir den größten Planeten des Sonnensystems: Jupiter",
-		'zt': "就快到木星囉。",
-		'kr': "목성에 꽤 가까워졌어요.",
-		'ro': "Acum suntem destul de aproape de Jupiter." 
+		'zt': "就快到木星囉。"
 	},
 	'sorry-that-was': {
 		'en': "Sorry. That was a lie before. Now we really are pretty close.",
@@ -176,34 +174,25 @@ var translations = {
 	'i-guess-this': {
 		'en': "I guess this is why most maps of the solar system aren't drawn to scale.",
 		'de': "Ich nehme an, das ist der Grund, weshalb die meisten Karten des Sonnensystems nicht maßstabsgetreu sind",
-		'zt': "我想這也是為什麼大部分的太陽系模型都是不按比例的。",
-		'kr': "여러 그림들이 태양계를 왜 정확한 비율로 묘사하지 않았는지 이제 알겠네요.",
-		'ro': "Cred că de aceea majoritatea hărților sistemului solar nu sunt desenate la scară." 
+		'zt': "我想這也是為什麼大部分的太陽系模型都是不按比例的。"
 	},
 	
 	'its-not-hard': {
 		'en': "It's not hard to draw the planets. ",
 		'de': "Es ist nicht schwer, die Planeten zu zeichnen.",
-		'vi': "Vẽ các hành tinh không có khó.",
-		'zt': "按比例畫出行星還算小事。",
-		'kr': "행성의 모습 자체는 그릴만해요. ",
-		'ro': "Nu e greu să desenezi planetele." 
+		'zt': "按比例畫出行星還算小事。" 
 	},
 	
 	'its-the-empty': {
 		'en': "It's the empty space that's a problem.",
 		'de': "Es ist der leere Raum, welches ein Problem ist.",
-		'zt': "真正困難的是它們之間遠得要命的距離。",
-		'kr': "거대한 빈 공간을 담아내는 게 문제지요.",
-		'ro': "Problema o reprezintă spațiul gol dintre ele." 
+		'zt': "真正困難的是它們之間遠得要命的距離。" 
 	},
 	
 	'most-space-charts': {
 		'en': "Most space charts leave out the most significant part – all the space. ",
 		'de': "Die meisten Raum-Karten lassen den wichtigsten Teil weg - den ganzen leeren Raum.",
-		'zt': "這也是絕大部分天文圖表都會遺漏的一個重要元素 — 太「空」本身。",
-		'kr': "많은 우주 도표들은 가장 중대한 부분을 빼놓아요 - 이 방대한 공간 말이지요.",
-		'ro': "Majoritatea hărților spațiale exclud tocmai partea cea mai semnificativă – spațiul." 
+		'zt': "這也是絕大部分天文圖表都會遺漏的一個重要元素 — 太「空」本身。"
 	},
 	
 	'were-used-to': {
@@ -221,6 +210,7 @@ var translations = {
 		'kr': "지구의 나이나, 시베리아의 눈송이 개수나, 국가의 부채에 대해서 가늠해보자면... ",
 		'ro': "Când vine vorba despre lucruri precum vârsta Pământului, numărul fulgilor de zăpadă din Siberia, datoria publică…" 
 	},
+
 	'those-things-are': {
 		'en': "Those things are too much for our brains to handle. ",
 		'de': "Diese Dinge sind zu viel für unser Gehirn um sie zu begreifen.",
@@ -265,9 +255,7 @@ var translations = {
 	'you-would-need': {
 		'en': "You would need ",
 		'de': "Sie müssten ",
-		'zt': "假設你今天想要一口氣看完這張地圖，那你還得再買 ",
-		'kr': "이 약도를 한꺼번에 내보이려면 지금 보는 화면을 나란히 ",
-		'ro': "Veți avea nevoie de " 
+		'zt': "假設你今天想要一口氣看完這張地圖，那你還得再買 " 
 	},
 	'of-these-screens': {
 		'en': " of these screens lined up side-by-side to show this whole map at once.", 
@@ -301,97 +289,27 @@ var translations = {
 	'a-drop-of': {
 		'en': "A drop of water can carve out a canyon.",
 		'de': "Ein Tropfen Wasser kann eine Schlucht schnitzen.",
-		'el': "Μια σταγόνα νερό μπορεί να σμιλέψει ένα φαράγγι.",
-		'tr': "Bir damla su koca bir kanyon oyabilir.",
-		'ru': "Капля воды может сформировать каньон.",
-		'ua': "Крапля води може вимити каньйон.",
-		'it': "Una goccia d’acqua potrebbe erodere una montagna.",
-		'fa': "",
-		'zh': "一滴水能开出峡谷。",
-		'sv': "En vattendroppe kan skapa en dalgång.",
-		'pl': "Krople wody mogą wydrążyć kanion.",
-		'hu': "Egy csepp víz is is kivájhat egy kanyont.",
-		'hy': "Ջրի մի կաթիլը կարող է կիրճ ձեւաւորել:",
-		'bg': "Капка вода може да издълбае каньон.",
-		'vi': "Những giọt nước có thể đẽo gọt nên một khe vực.",
 		'zt': "滴水涓涓足以穿石成谷。",
 		'kr': "물방울이 땅을 깎아 협곡을 만들고요.",
 		'ro': "Puțină apă poate săpa un canion." 
 	},
 	'an-amoeba-can': {
 		'en': "An amoeba can become a dolphin.",
-		'fr': "Une amibe peut devenir un dauphin.",
-		'es': "Una ameba puede convertirse en un delfín.",
-		'pt': "Uma ameba pode se tornar um golfinho.",
-		'nl': "Een amoebe kan een dolfijn worden.",
-		'iw': "אמבה יכולה להתפתח עד שתהיה לדולפין",
-		'jp': "アメーバ一つがイルカになるように。",
 		'de': "Eine Amöbe kann sich zu einem Delfin entwickeln.",
-		'el': "Μια αμοιβάδα μπορεί να γίνει ένα δελφίνι.",
-		'tr': "Bir amip yunusa dönüşebilir.",
-		'ru': "Амёба может превратиться в дельфина.",
-		'ua': "Амеба може стати дельфіном.",
-		'it': "Un’ameba potrebbe diventare un delfino.",
-		'fa': "",
-		'zh': "一个变形虫能变成海豚。",
-		'sv': "En amöba kan bli till en delfin.",
-		'pl': "Ameba może stać się delfinem.",
-		'hu': "Egy amőba delfinné válhat.",
-		'hy': "Փոխակենսիկը կարող է դառնալ դելֆին:",
-		'bg': "Амебата може да стане делфин.",
-		'vi': "Một con trùng a-míp có thể trở thành cá heo.",
 		'zt': "細胞悠悠能夠躍成海豚。",
 		'kr': " 단세포 생물의 계보에서 다세포 생물이 나오기도 하지요.",
 		'ro': "O amibă se poate transforma într-un delfin." 
 	},
 	'a-star-can': {
 		'en': "A star can collapse on itself. ",
-		'fr': "Une étoile peut s'effondrer sur elle-même.",
-		'es': "Una estrella puede colapsar sobre sí misma.",
-		'pt': "Uma estrela pode entrar em colapso e morrer.",
-		'nl': "Een ster kan onder zijn eigen gewicht instorten.",
-		'iw': "כוכב יכול לקרוס לתוך עצמו",
-		'jp': "星が自ら爆発して消えていくように。",
 		'de': "Ein Stern kann in sich selbst kollabieren.",
-		'el': "Ένα αστέρι μπορεί να καταρρεύσει κάτω από την δύναμη της βαρύτητάς του.",
-		'tr': "Bir yıldız kendi içine çökebilir.",
-		'ru': "Звезда может схлопнуться внутрь самой себя.",
-		'ua': "Зірка може стиснутись.",
-		'it': "Una stella potrebbe collassare su se stessa.",
-		'fa': "",
-		'zh': "一颗星星会坍塌。",
-		'sv': "En stjärna kan kollapsa in i sig själv.",
-		'pl': "Gwiazda może zapaść się do środka.",
-		'hu': "Egy csillag összezsugorodhat magában.",
-		'hy': "Աստղը կարող է ինքն իրեն փլուզուել:",
-		'bg': "Някоя звезда може да се свие.",
-		'vi': "Một ngôi sao có thể chết đi và tự bóp nghẹt lại trong chính nó.",
 		'zt': "就連群星閃閃都得殞落崩塌。",
 		'kr': "별이 스스로의 중력으로 붕괴되기도 해요.",
 		'ro': "O stea poate face implozie." 
 	},
 	'its-easy-to': {
 		'en': "It’s easy to disregard nothingness because there’s no thought available to encapsulate it. There’s no metaphor that fits because, by definition, once the nothingness becomes tangible, it ceases to exist.",
-		'fr': "Il est facile d'ignorer le vide, parce qu'il n'y a pas de pensée capable de le contenir. Il n'y a pas de métaphore qui conviendrait, car par définition, lorsque le vide devient tangible, il cesse d'exister.",
-		'es': "Es fácil ignorar la nada porque no hay pensamiento capaz de encapsularla. No hay metáfora posible porque, por definición, una vez la nada se torna tangible, deja de existir.",
-		'pt': "É fácil desprezar o nada porque não há pensamento disponível para compactá-lo. Não há metáfora que se encaixa, porque, por definição, uma vez que o nada se torna tangível, ele deixa de existir.",
-		'nl': "Het is makkelijk om het niets te negeren omdat we geen idee hebben hoe we het moeten omvatten. Er bestaat geen passende vergelijking, want zodra het niets concreet wordt , bestaat het per definitie niet meer.",
-		'iw':"  קל לנו להתעלם מהריק מאחר ואין לנו יכולת לתפוס אותו במחשבותינו אין לנו דימויים מתאימים לתארו מאחר ובהגדרה, ברגע שהריק הופך להיות מוחשי הוא מפסיק להתקיים כריק.    ", 
-		'jp': "無というのはつまり何もないことでそれに当てはまる考えがないため、考慮しないほうが簡単です。無が物質的に存在することはつまり無では無くなってしまうため、そこにメタファーを当てはめることはできません。",
 		'de': "Es ist einfach das Nichts außer Acht zu lassen.  Es gibt keine gescheite Metapher, um es zu beschreiben. Denn wenn das Nichts definierbar wäre, würde es aufhören zu existieren.",
-		'el': "Είναι εύκολο να αγνοούμε την ανυπαρξία, επειδή δεν υπάρχει σκέψη που να την περιέχει. Δεν υπάρχει καμία σύγκριση που να ταιριάζει, γιατί, εξ ορισμού, όταν η ανυπαρξία γίνει χειροπιαστή, θα πάψει να υφίσταται.",
-		'tr': "Boşluğu yok saymak kolay çünkü onu kavrayabilecek bir düşünce yok. Uygun bir metafor yok çünkü tanımınca, hiçlik somut olduğunda son bulur.",
-		'ru': "Пустотой легко пренебречь, ибо не существует мысли, в которой она бы уместилась. Здесь не подберёшь метафору — ведь в тот самый момент, когда пустота становится осязаемой, она по определению перестаёт существовать.",
-		'ua': "Простором легко нехтувати, бо він нічого в собі не має. Не існує вдалої метафори для порожнечі, бо як тільки її вставити в рамки, вона зразу ж зникає.",
-		'it': "È facile ignorare il nulla perché non abbiamo la capacità di pensiero disponibile per incapsularlo. Non c’è una metafora che potremmo usare perché, per definizione, una volta che il nulla diventa tangibile cessa di esistere.",
-		'fa': "",
-		'zh': "因为没有任何概念可以准确表示虚无，所以我们很容易就忽略了它。也没有比喻能描述虚无，因为根据定义，只要虚无被描述了出来，它就不是虚无了。",
-		'sv': "Det är lätt att bortse från intet, eftersom det inte finns nån tanke som kan kapsla in det. Det finns ingen metafor som passar eftersom, per definition, när intet blir påtagligt, så upphör det att existera.",
-		'pl': "Łatwo jest nam pominąć nicość, ponieważ nie potrafimy jej ogarnąć naszą myślą. Nie ma dla niej metafory, bo jeżeli nicość stanie się namacalna, to z definicji przestaje istnieć.",
-		'hu': "Könnyű elhanyagolni a semmit, mert nincs az a gondolat, ami keretbe foglalná. Nem illik rá semmilyen hasonlat, mert – meghatározásából adódóan – ha egyszer a semmi valami megragadhatóvá válik, akkor megszűnik létezni.",
-		'hy': "Հեշտ է արհամարհել ոչնչութիւն, որովհետեւ գլխի մէջ չի տեղաւորւում:  Չես կարող յարմար փոխաբերութիւն գտնել, ըստ  սահմանման, հէնց որ ոչնչութիւնը դառնայ շօշափելի՝ նա կ'դադարի գոյութիւն ունենալ:",
-		'bg': "Лесно е да се пренебрегне празнотата, защото нямаме с какво да я сравним. Няма метафора, която да ни помогне с това – когато празнотата стане много голяма, престава да съществува за нас.",
-		'vi': "Thật dễ để bỏ qua sự hư vô, bởi không có suy nghĩ nào chứa được sự hư vô. Không có phép ẩn dụ nào có thể dùng được, bởi, theo định nghĩa, nếu sự hư vô được nắm, sờ thấy, thì hư vô không tồn tại nữa.",
 		'zt': "因為虛無是這麼難以理解的概念，以至於我們太容易就忽略它了，有時就連打個比方都顯得無力，因為如果虛無可以被描述出來，它便又不是虛無了。",
 		'kr': "무(無)를 적절히 담아낼 수 있는 관념이 없기 때문에 간과하곤 하지요. 사실상 알맞은 비유는 없는데, 의미상으로 무(無)를 형용하는 순간 더 이상 무(無)가 아니기 때문이에요.",
 		'ro': "Este ușor să ignorăm nimicul pentru că nu există niciun concept pentru a-l cuprinde. Nu e nicio metaforă care să se potrivească deoarece, prin definiție, odată ce nimicul devine tangibil, el încetează să mai existe." 
@@ -773,26 +691,7 @@ var translations = {
 	
 	'if-the-proton': {
 		'en': "If the proton of a hydrogen atom was the size of the sun on this map, we would need 11 more of these maps to show the average distance to the electron.",
-		'fr': "Si le proton d'un atome d'hydrogène était de la taille du soleil sur cette carte, il nous faudrait 11 cartes en plus pour montrer la distance moyenne entre ce proton et un électron.",
-		'es': "Si el protón de un átomo de hidrógeno fuera del tamaño del sol en este mapa, necesitaríamos 11 mapas mas como este para mostrar la distancia hasta el electrón.",
-		'pt': "Se o próton de um átomo de hidrogênio fosse do tamanho do Sol neste mapa, precisaríamos de mais 11 desses mapas para mostrar a distância média até o elétron.",
-		'nl': "Als een proton van een waterstofatoom zo groot was als de zon op deze kaart, dan hadden we nog 11 van deze kaarten nodig om de gemiddelde afstand tot een elektron te laten zien.",
-		'iw': "אם הפרוטון באטום המימן היה בגודלה של השמש שעל המפה שלנו, הינו זקוקים ל11 מפות נוספות על מנת להראות את המרחק הממוצע שלו מהאלקטרון שלו",
-		'jp': "もしも水素原子内の陽子がこのマップの太陽の大きさだったとして、電子までの平均距離を示すのにはこの11倍の大きさのマップが必要となります。",
 		'de': "Wenn das Proton eines Wasserstoffatoms so groß wäre wie die Sonne, die wir am Anfang auf dieser Karte gesehen haben, müssten wir vom Ende dieser Website noch 11 Mal weiter scrollen, um die durchschnittliche Distanz zum Elektron maßstabsgetreu darzustellen.",
-		'el': "Αν το πρωτόνιο ενός ατόμου υδρογόνου είχε το μέγεθος του ήλιο σε αυτόν τον χάρτη, θα χρειαζόμασταν 11 χάρτες σαν αυτόν για να αποτυπώσουμε την μέση απόσταση του από το ηλεκτρόνιο.",
-		'tr': "Bir hidrojen atomunun protonu bu haritadaki güneş kadar olsa elektrona olan ortalama uzaklığı göstermek için bu haritalardan 11 taneye daha ihtiyacımız olurdu.",
-		'ru': "Если бы протон атома водорода был размером с Солнце на этой карте, понадобилось бы ещё 11 карт, чтобы показать среднее расстояние до его электрона.",
-		'ua': "Якби протон атома водню на цій мапі був розміром з Сонце, нам би додатково знадобилось ще 11 таких мап, щоб показати середню відстань до його електрона. ",
-		'it': "Se il protone di un atomo d’idrogeno fosse grande come il sole di questa mappa, ci vorrebbero altre 11 mappe per mostrare  la distanza media dall’elettrone.",
-		'fa': "",
-		'zh': "假如氢原子的质子就是这幅地图上太阳那么大，我们还需要11个这么大的地图来表示从氢原子质子到电子的平均距离。",
-		'sv': "Om protonen i en väteatom var av samma storlek som solen på den här kartan så skulle vi behöva 11 fler av dessa kartor för att visa det genomsnittliga avståndet till elektronen.",
-		'pl': "Gdyby proton w atomie wodoru był wielkości Słońca na tej mapie, potrzebowalibyśmy 11 kolejnych takich map, żeby pokazać średnią odległość od elektronu.",
-		'hu': "Ha egy hidrogénatom protonja akkora lenne, mint a Nap ezen a térképen, még tizenegy ekkora térképre lenne szükségünk, hogy megmutathassuk az elektronjától való átlagos távolságát.",
-		'hy': "Եթէ ջրածնի հիւլէական միջուկի կազմող պրոտոնը լինէր այս քարտէզի Արեգակի չափսին, հարկաւոր կ'լինէր եւս 11 քարտէզ, որպէսզի ցուցադրել միջին հեռաւորութիւնը մինչեւ իր էլեկտրոնը:",
-		'bg': "Ако протонът в ядрото на водородния атом беше с размера на Слънцето, щяха да са ни нужни повече от 11 карти като тази, за да покажем средното разстояние до електроните.",
-		'vi': "Nếu hạt proton, tức hạt nhân nguyên tử hydro, to bằng hình Mặt Trời trong bản đồ này, thì chúng ta cần chiều dài tương đương với toàn bộ 11 bản đồ để diễn tả khoảng cách trung bình đến electron.",
 		'zt': "假設現在把氫原子裡的質子放大到跟這張地圖上的太陽一樣的話，那以平均距離而言，我們必須把地圖的總長延長整整 11 倍，才有機會看到環繞在外面的電子。",
 		'kr': "수소 원자의 양자를 이 약도의 해와 같은 크기라고 가정할 때, 전자의 평균 거리를 표시하려면 이 약도의 11 배 길이가 필요해요.",
 		'ro': "Dacă protonul atomului de hidrogen ar fi de mărimea Soarelui de pe această hartă, ne-ar trebui încă 11 asemenea hărți pentru a arăta distanța medie până la electron." 
@@ -853,26 +752,7 @@ var translations = {
 	},
 	'you-could-safely': {
 		'en': "You could safely say the universe is a \"whole lotta nothing.\"",
-		'fr': "On pourrait dire sans trop se mouiller que l'univers est un \"sacré paquet de vide.\"",
-		'es': "Se puede decir con seguridad que el universo es \"un montón de nada.\"",
-		'pt': "Você pode tranquilamente dizer que o universo é \"um montão de coisa nenhuma.\"",
-		'nl': "Je kunt gerust zeggen dat het heelal \"een heleboel niks\" is.",
-		'iw': "אנו יכולים להגיד בביטחון כי היקום הוא הרבה של כלום",
-		'jp': "宇宙は”数えきれない無数の無”だと言えるでしょう。",
 		'de': "Man könnte sicherlich sagen, dass das Universum \"eine ganze Menge von Nichts\" ist.",
-		'el': "Θα μπορούσατε με ασφάλεια να πείτε ότι το σύμπαν είναι ένα “σχεδόν μεγάλο τίποτα”",
-		'tr': "Çok rahat bir şekilde evrenin “çoğunlukla hiçbir şey” olduğunu söyleyebilirsiniz.",
-		'ru': "Так что можно смело говорить, что Вселенная просто «дырка от бублика».",
-		'ua': "Можете з впевненістю казати, що Всесвіт – це дірка від бублика.",
-		'it': "Potresti tranquillamente dire che l’universo è un “gran bel nulla”.",
-		'fa': "",
-		'zh': "其实你也可以说宇宙是“总的来说没啥东西”。",
-		'sv': "Man kan lugnt säga att universum är en “väldans massa inget.” ",
-		'pl': "Można śmiało powiedzieć, że cały wszechświat to \"jedno wielkie nic.\"",
-		'hu': "Mondhatni, az univerzum „egy jókora semmi”.",
-		'hy': "Կարելի է հանգիստ ասել, որ տիեզերքը «2 հատ ոչմի բան» է:",
-		'bg': "Можем да кажем, че Вселената е пълна с нищо.",
-		'vi': "Bạn có thể yên tâm nói rằng Vũ trụ là \"một đống rỗng tuếch\".",
 		'zt': "依著剛剛的比例，其實你也可以說：「整個宇宙根本空無一物」。",
 		'kr': "우주에 대해 \"온통 아무것도 아니네\"라고 말해도 될 정도에요.",
 		'ro': "Am putea spune că universul este „un mare nimic”." 
