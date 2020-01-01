@@ -322,7 +322,7 @@ img, img a {
 }
 
 #milkywaywrap {
-	left: 10px;
+	left: 9px;
 	position:absolute;
 	top: 0px;
 	z-index:2;
@@ -338,7 +338,7 @@ img, img a {
 	margin:0 auto;
 	width: 200px;
 	top: -30px;
-	left: -230px;
+	left: -220px;
 	color: #cceeff;
 	font-size: 2em;
 	padding-left: 0px;
